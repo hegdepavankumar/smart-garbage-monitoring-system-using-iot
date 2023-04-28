@@ -1,1 +1,1 @@
-# Smart_Garbage_Monitoring_System
+# smart-garbage-monitoring-system-using-iot
