@@ -389,8 +389,11 @@ void loop()
  }
 
 ```
+## Instructions/Setup
 
-
+- Download and install Arduino IDE
+- Make all the necessary connections
+- Compile and upload the code to the board
 <br>
 
 ## Conclusion
@@ -398,6 +401,15 @@ void loop()
 While completing this project proposal, there are a few constraints that come up. First, the reading of sensors is less accurate and need to be extra careful of handling the sensors. Second, notification to the mobile phone cannot be done because the cloud platform used is an open source platform and cannot be used to send an alert or notification to the users. Development of the system need to be done thoroughly to decrease the possibility of errors. However, the added value has been added to this system to make the system more reliable. Normalization is being used to eliminate the outliers which can help to increase the accuracy of the distance reads by an ultrasonic sensor.
   
 
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
