@@ -419,3 +419,28 @@ Contributions are what make the open source community such an amazing place to b
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
+## Creators [🔝](# smart-garbage-monitoring-system-using-iot)
+
+This Project is Created by :-
+
+  - [Pavankumar Hegde](https://github.com/hegdepavankumar)
+  - [Sushil Kumar Sah](https://github.com/sushilsah)
+  - [Safina Fathima](https://github.com/safinafab)
+  - [Santhosh Reddy](https://github.com/)
+
+
+
+<br>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<br>
+
+
+ <!-- Support Me --> 
+
+ 
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+
