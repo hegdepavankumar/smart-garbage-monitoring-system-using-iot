@@ -81,7 +81,6 @@ A buzzer or beeper is an audio signaling device, which may be mechanical, electr
 
 ![image](https://user-images.githubusercontent.com/85627085/235187067-c6bc9a3e-2112-49f5-962f-e3123f8fb0d5.png)
 
-
 <br>
 
 A connecting wire allows travels the electric current from one point to another point without resistivity. Resistance of connecting wire should always be near zero. Copper wires have low resistance and are therefore suitable for low resistance.
