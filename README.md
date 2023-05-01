@@ -100,6 +100,15 @@ NodeMCU is an open source firmware for which open source prototyping board desig
 
 <br>
 
+8) ### 16x2 LCD
+ <br>
+![image](https://user-images.githubusercontent.com/85627085/235443393-3244e030-0550-4e0c-9701-749ec34da742.png)
+
+<br>
+The Liquid Crystal library allows you to control LCD displays that are compatible with the Hitachi HD44780 driver. There are many of them out there, and you can usually tell them by the 16-pin interface. The LCDs have a parallel interface, meaning that the microcontroller has to manipulate several interface pins at once to control the display.
+
+<br>
+
 ## Software Requiremets
 
   - Windows 7/10/11 OS with Min 4GB RAM and 250GB Hard Disk <br>
