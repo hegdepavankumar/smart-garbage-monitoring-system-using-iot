@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lan="en" and dir="Itr">
+<head>
+    <meta charset="utf-8">
+    <title> Admin Portal</title>
+    <link rel="stylesheet" href="style.css">
+    <script src ="login.js"> </script>
+    <div class = "banner">  
+        <center>
+            <marquee> SMART GARBAGE MONITORING SYSTEM USING IOT </marquee> 
+    
+        </center>
+    </div>
+
+   
+</head>
+
+<body>
+
+<form class="form-container" onsubmit="return validate()"> <br>
+    <h3>Login</h3>
+    <div class="form-grp">
+        <label for="username">Username</label><br>
+        <input type="text" name="username" placeholder="Username" id="user">
+        <i class="fa fa-times u-times"></i>
+        <i class="fa fa-check u-check"></i>
+    </div>
+
+    <div class="form-grp">
+        <label for="password">Password</label><br>
+        <input type="password" name="password" placeholder="password" id="pass">
+        <i class="fa fa-times p-times"></i>
+        <i class="fa fa-check p-check"></i>
+    </div> 
+
+<div class="form-grp">
+    <center>
+        <!-- An element to toggle between password visibility -->
+        <input type="checkbox" onclick="myFunction()">Show Password
+        
+        </center>
+</div>
+
+
+
+
+    <div class="form-grp">
+        <input type="submit" name="login-btn" value="Login">
+    </div>
+
+</form>
+
+</body>
+
+</html>

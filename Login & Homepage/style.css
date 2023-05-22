@@ -1,0 +1,79 @@
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* form container */
+
+.form-container {
+   background-color: rgb(238, 237, 231);
+   width: 300px;
+   margin: 50px auto;
+   box-shadow: 0PX 3PX 7PX  3px rgba(16, 38, 165, 0.205);
+   font-weight: bold;
+}
+
+.form-container h3 {
+    text-align: center;
+    padding: 8px;
+}
+
+.form-grp {
+    padding: 8px;
+    position: relative;
+}
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #553ea7;
+    border-radius: 4px;
+    background-color: rgb(208, 238, 240);
+    font-weight: bold;
+}
+
+input[type = text]:focus, input[type = password]:focus {
+    border: 1px solid #9fc906;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #d5d6d8;
+    border-radius: 4px;
+    background-color: #105aca;
+    color: white;
+    font-weight: bold;
+}
+
+.form-grp .fa {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: #aa0a0a;
+    display: none;
+}
+.fa-times {
+    color: #f00;
+}
+
+.fa-check {
+    color: #0f0;
+}
+
+.banner{
+    width: 100%; 
+    size-adjust: 100%;
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(20, 73, 141);
+}
+
+.form-container {
+    height: 55vh
+
+}
+
+
+

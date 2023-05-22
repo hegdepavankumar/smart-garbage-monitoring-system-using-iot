@@ -1,0 +1,19 @@
+
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.exitpage {
+    display: none;
+  }
+  
+  .authenticated .logout {
+    display: block;
+  }
+  
+  .authenticated .exitpage {
+    display: none;
+  }
