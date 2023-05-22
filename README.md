@@ -1,6 +1,6 @@
 # smart-garbage-monitoring-system-using-iot
 
-
+ 
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/smart-garbage-monitoring-system-using-iot?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/smart-garbage-monitoring-system-using-iot?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/smart-garbage-monitoring-system-using-iot?style=flat)
