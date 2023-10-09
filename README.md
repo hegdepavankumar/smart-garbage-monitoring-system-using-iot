@@ -434,7 +434,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 This Project is Created by :-
 
-  - [Pavankumar Hegde](https://github.com/hegdepavankumar)
+  - [Pavankumar Hegde](https://github.com/hegdepavankumar) [Team Leader]
   - [Sushil Kumar Sah](https://github.com/sushilsah)
   - [Safina Fathima](https://github.com/safinafab)
   - [Santhosh Reddy](https://github.com/)
