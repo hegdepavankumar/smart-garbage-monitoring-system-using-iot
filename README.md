@@ -1,14 +1,14 @@
 # smart-garbage-monitoring-system-using-iot
 
  
-![GitHub](https://img.shields.io/github/license/imhegde/smart-garbage-monitoring-system-using-iot?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/imhegde/smart-garbage-monitoring-system-using-iot?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/smart-garbage-monitoring-system-using-iot?style=flat)
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/smart-garbage-monitoring-system-using-iot?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/smart-garbage-monitoring-system-using-iot?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/smart-garbage-monitoring-system-using-iot?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/smart-garbage-monitoring-system-using-iot.svg?cache=remove)
 
 ## Overview
 
-We are living in the era of Smart cities where everything is planned and systematic. The problem we are facing is the population, which is rising rapidly. In recent years, urban migration has skyrocketed. This has resulted in the rise of garbage waste everywhere. Dumping of garbage in public places creates a polluted environment in the neighborhood. It could cause several serious diseases to the people living around. This will embarrass the evaluation of the affected area. To reduce waste and maintain good hygiene, we need a systematic approach to tackle the problem.  The traditional way of manually monitoring the wastes in waste bins is a complex, cumbersome process and utilizes more human effort, time, and cost which is not compatible with the present-day technologies in any way. We propose a solution to this waste problem which manages the garbage waste smartly. This research paper proposes an IoT-based smart system based on clean waste management that assesses the level of waste on dustbins through sensory systems. In this system, the microcontroller is used as a visual connector connecting the sensor and the IoT system. This is an advanced method in which waste management is automated. This project IoT Garbage Monitoring system is a very innovative system which will help to keep the cities clean. This system monitors the garbage bins and informs about the level of garbage collected in the garbage bins via a web page. This web page also sends all information to garbage collection vehicles.
+We are living in the era of Smart cities where everything is planned and systematic. The problem we are facing is the population, which is rising rapidly. In recent years, urban migration has skyrocketed. This has resulted in the rise of garbage waste everywhere. Dumping of garbage in public places creates a polluted environment in the neighborhood. It could cause several serious diseases to the people living around. This will embarrass the evaluation of the affected area. To reduce waste and maintain good hygiene, we need a systematic approach to tackle the problem.  The traditional way of manually monitoring the wastes in waste bins is a complex, cumbersome process and utilizes more human effort, time, and cost which is not compatible with the present-day technologies in any way. We propose a solution to this waste problem which manages the garbage waste smartly. This research paper proposes an IoT-based smart system based on clean waste management that assesses the level of waste on dustbins through sensory systems. In this system, the microcontroller is used as a visual connector connecting the sensor and the IoT system. This is an advanced method in which waste management is automated. This project IoT Garbage Monitoring system is a very innovative system that will help to keep the cities clean. This system monitors the garbage bins and informs about the level of garbage collected in the garbage bins via a web page. This web page also sends all information to garbage collection vehicles.
 
 
 ## Hardware Requirements
@@ -434,7 +434,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 This Project is Created by:-
 
-  - [Pavankumar Hegde](https://github.com/imhegde) [Team Leader]
+  - [Pavankumar Hegde](https://github.com/hegdepavankumar) [Team Leader]
   - [Sushil Kumar Sah](https://github.com/sushilsah)
   - [Safina Fathima](https://github.com/safinafab)
   - [Santhosh Reddy](https://github.com/)
@@ -451,7 +451,7 @@ This Project is Created by:-
  
 if you like what I do, maybe consider buying me a coffee 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/imhegde" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/hegdepavankumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
