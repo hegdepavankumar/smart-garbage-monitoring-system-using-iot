@@ -1,4 +1,4 @@
-# smart-garbage-monitoring-system-using-iot
+# Smart Garbage Monitoring System Using IOT
 
  
 ![GitHub](https://img.shields.io/github/license/hegdepavankumar/smart-garbage-monitoring-system-using-iot?style=flat)
