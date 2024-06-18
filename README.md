@@ -13,6 +13,7 @@ We are living in the era of Smart cities where everything is planned and systema
 <br>
 
 # Real-Time Implemented Images: [click here to view](https://github.com/hegdepavankumar/smart-garbage-monitoring-system-using-iot/tree/main/sample-project-images)
+# Project Report: [click here to download](https://github.com/user-attachments/files/15880862/Report.Content.pdf)
 
 <br>
 
